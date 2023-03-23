@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: rainway
+    env: docker
+    plan: free
